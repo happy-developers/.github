@@ -16,4 +16,4 @@
 
 ### 4. learn-five-lines-of-code
 Five Lines Of Code 책을 읽고 토론한 내용을 정리한 repository입니다.  
-👉 [Repo Link](https://github.com/happy-developers/learn-five-lines-of-code/issues/1)
+👉 [Repo Link](https://github.com/happy-developers/learn-five-lines-of-code)
